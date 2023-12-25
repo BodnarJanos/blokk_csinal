@@ -14,7 +14,7 @@ namespace blocks {
     }
 
     /**
-     * This block goes on top
+     * This block goes on top bizony
      */
     //% block
     //% weight=100
